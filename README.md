@@ -1,3 +1,4 @@
+# 总项目 https://github.com/wlhbdp/bdp-ecology
 # 3、店家数据分析 bdp-store
 
 3.1 智能营销推荐分析
